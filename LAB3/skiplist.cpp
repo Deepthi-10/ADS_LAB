@@ -138,7 +138,7 @@ int main() {
             default:
                 cout << "Wrong Choice";
         }
-        cout << '\n';
+        cout << "\n";
     }
 
     return 0;
